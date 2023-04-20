@@ -1,6 +1,7 @@
+<div align="center">
+
 # Análise de dados exploratória em SQL: Vendas de videogames
 
-<div align="center">
 <img src="https://user-images.githubusercontent.com/129882966/230080306-f5545bd1-ef90-47fd-b5b8-dcd191461028.png">
 </div>
 
